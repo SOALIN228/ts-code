@@ -4,4 +4,5 @@
 // import './reverse-link-list'
 // import './queue-with-list'
 // import './binary-search'
-import './two-number-sum'
+// import './two-number-sum'
+import './binary-search-tree'

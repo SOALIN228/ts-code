@@ -6,4 +6,5 @@
 // import './binary-search'
 // import './two-number-sum'
 // import './binary-search-tree'
-import './fibonacci'
+// import './fibonacci'
+import "./move-zero";

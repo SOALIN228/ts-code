@@ -10,4 +10,5 @@
 // import "./move-zero";
 // import './continuous-char'
 // import './quick-sort'
-import "./palindrome-number";
+// import "./palindrome-number";
+import './thousands-format'

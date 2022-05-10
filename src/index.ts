@@ -9,4 +9,5 @@
 // import './fibonacci'
 // import "./move-zero";
 // import './continuous-char'
-import './quick-sort'
+// import './quick-sort'
+import "./palindrome-number";

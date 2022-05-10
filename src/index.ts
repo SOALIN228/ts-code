@@ -8,4 +8,5 @@
 // import './binary-search-tree'
 // import './fibonacci'
 // import "./move-zero";
-import './continuous-char'
+// import './continuous-char'
+import './quick-sort'

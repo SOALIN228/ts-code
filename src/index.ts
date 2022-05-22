@@ -1,15 +1,16 @@
-// import "./array-rotate";
-// import "./match-bracket";
-// import './two-stacks-one-queue'
-// import './reverse-link-list'
-// import './queue-with-list'
-// import './binary-search'
-// import './two-number-sum'
-// import './binary-search-tree'
-// import './fibonacci'
-// import "./move-zero";
-// import './continuous-char'
-// import './quick-sort'
-// import "./palindrome-number";
-// import './thousands-format'
-import "./switchLetterCase";
+// import "./algorithhm/array-rotate";
+// import "./algorithhm/match-bracket";
+// import './algorithhm/two-stacks-one-queue'
+// import './algorithhm/reverse-link-list'
+// import './algorithhm/queue-with-list'
+// import './algorithhm/binary-search'
+// import './algorithhm/two-number-sum'
+// import './algorithhm/binary-search-tree'
+// import './algorithhm/fibonacci'
+// import "./algorithhm/move-zero";
+// import './algorithhm/continuous-char'
+// import './algorithhm/quick-sort'
+// import "./algorithhm/palindrome-number";
+// import './algorithhm/thousands-format'
+// import "./algorithhm/switchLetterCase";
+import './write-code/arrray-flatten'

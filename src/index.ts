@@ -13,4 +13,5 @@
 // import "./algorithhm/palindrome-number";
 // import './algorithhm/thousands-format'
 // import "./algorithhm/switchLetterCase";
-import './write-code/arrray-flatten'
+// import './write-code/arrray-flatten'
+import './write-code/get-type'

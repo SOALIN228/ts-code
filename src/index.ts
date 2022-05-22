@@ -17,4 +17,5 @@
 // import './write-code/get-type'
 // import './write-code/new'
 // import "./write-code/dom-traverse";
-import "./write-code/lazy-man";
+// import "./write-code/lazy-man";
+import "./write-code/curry";

@@ -14,4 +14,6 @@
 // import './algorithhm/thousands-format'
 // import "./algorithhm/switchLetterCase";
 // import './write-code/arrray-flatten'
-import './write-code/get-type'
+// import './write-code/get-type'
+// import './write-code/new'
+import "./write-code/dom-traverse";

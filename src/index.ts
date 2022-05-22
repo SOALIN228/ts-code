@@ -19,4 +19,5 @@
 // import "./write-code/dom-traverse";
 // import "./write-code/lazy-man";
 // import "./write-code/curry";
-import "./write-code/instanceof";
+// import "./write-code/instanceof";
+import "./write-code/bind";

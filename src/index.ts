@@ -20,4 +20,5 @@
 // import "./write-code/lazy-man";
 // import "./write-code/curry";
 // import "./write-code/instanceof";
-import "./write-code/bind";
+// import "./write-code/bind";
+import "./write-code/event-bus";

@@ -22,4 +22,5 @@
 // import "./write-code/instanceof";
 // import "./write-code/bind";
 // import "./write-code/event-bus";
-import "./write-code/lru";
+// import "./write-code/lru";
+import "./write-code/deep-clone";

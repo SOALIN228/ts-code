@@ -23,4 +23,5 @@
 // import "./write-code/bind";
 // import "./write-code/event-bus";
 // import "./write-code/lru";
-import "./write-code/deep-clone";
+// import "./write-code/deep-clone";
+import "./write-code/convert";
